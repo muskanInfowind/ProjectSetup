@@ -1,4 +1,4 @@
-package com.projectsetup
+package com.isleBlue
 
 import android.app.Application
 import com.facebook.react.PackageList
